@@ -1,0 +1,22 @@
+{
+  "name": "Imposter Who?",
+  "short_name": "Imposter",
+  "description": "A premium social deduction game in Nepali and English.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#A855F7",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/imposter/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/imposter/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
